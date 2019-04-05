@@ -1,0 +1,8 @@
+2019-02-15 10:28:49,454 ERROR com.example.test.testingHMS.security.JwtTokenProvider [http-nio-8084-exec-5] Expired JWT token
+2019-02-15 10:28:49,629 ERROR com.example.test.testingHMS.security.JwtAuthenticationEntryPoint [http-nio-8084-exec-5] Responding with unauthorized error. Message - Full authentication is required to access this resource
+2019-02-15 10:29:52,054 ERROR com.example.test.testingHMS.security.JwtTokenProvider [http-nio-8084-exec-9] Expired JWT token
+2019-02-15 10:29:52,073 ERROR com.example.test.testingHMS.security.JwtAuthenticationEntryPoint [http-nio-8084-exec-9] Responding with unauthorized error. Message - Full authentication is required to access this resource
+2019-02-15 10:31:23,358 ERROR com.example.test.testingHMS.pharmacist.serviceImpl.SalesServiceImpl [http-nio-8084-exec-3] -1
+2019-02-15 10:33:09,975 ERROR com.example.test.testingHMS.security.JwtTokenProvider [http-nio-8084-exec-5] Expired JWT token
+2019-02-15 10:33:09,976 ERROR com.example.test.testingHMS.security.JwtAuthenticationEntryPoint [http-nio-8084-exec-5] Responding with unauthorized error. Message - Full authentication is required to access this resource
+2019-02-15 11:21:10,268 ERROR com.example.test.testingHMS.pharmacist.serviceImpl.SalesServiceImpl [http-nio-8084-exec-2] -1
